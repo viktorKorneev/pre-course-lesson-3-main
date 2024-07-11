@@ -208,3 +208,9 @@ section {
 .btn:hover {
   transform: translateY(-5px);
 }
+
+/* =========== Медия запрос ============== */
+
+@media screen and (max-width: 1440px) {
+  
+}
