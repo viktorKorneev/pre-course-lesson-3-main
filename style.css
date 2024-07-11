@@ -10,6 +10,7 @@ body {
   font-style: normal;
   line-height: normal;
   font-family: Rubik, sans-serif;
+  min-width: 375px;
 }
 
 ul {
@@ -259,7 +260,18 @@ section {
     font-size: 34px;
   }
 
-
+  .subtitle {
+    font-size: 14px;
+    margin-bottom: 50px;
+  }
+  .text {
+    font-size: 16x;
+    margin-bottom: 55px;
+  }
+  
+  .btn {
+    margin-bottom: 65px;
+  } 
 }
 
 
