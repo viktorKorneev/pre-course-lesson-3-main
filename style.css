@@ -212,5 +212,9 @@ section {
 /* =========== Медия запрос ============== */
 
 @media screen and (max-width: 1440px) {
-  
+  .card {
+    width: 690px;
+    flex-direction: column;
+    margin: 40px;
+  }
 }
