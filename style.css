@@ -237,8 +237,29 @@ section {
 
 /* =========== Адаптив под мобилы ================ */
 
-@media screen and (min-width: 576px) {
+@media screen and (max-width: 576px) {
   .card {
     margin: 15px;
   }
+
+  .product-image-block {
+    min-width: auto;
+  }
+
+  .main-image {
+    width: 250px;
+  }
+
+  .product-info-block {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .main-title {
+    font-size: 34px;
+  }
+
+
 }
+
+
