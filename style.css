@@ -223,5 +223,7 @@ section {
     border-bottom: 2px solid rgba(20, 20, 20, 0.15);
   }
 
-  
+  .previews-wrapper {
+    margin: 60px 0 70px;
+  }
 }
