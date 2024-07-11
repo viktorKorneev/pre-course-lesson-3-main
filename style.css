@@ -26,7 +26,7 @@ section {
 
 .card {
   width: 1170px;
-  height: 800px;
+  min-height: 800px;
   background: #fff;
   box-shadow: 20px 20px 40px 0px rgba(81, 91, 117, 0.25);
   padding: 60px 0 70px;
