@@ -217,4 +217,11 @@ section {
     flex-direction: column;
     margin: 40px;
   }
+
+  .product-image-block {
+    border-right: none;
+    border-bottom: 2px solid rgba(20, 20, 20, 0.15);
+  }
+
+  
 }
