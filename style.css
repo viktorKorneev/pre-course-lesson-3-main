@@ -226,4 +226,8 @@ section {
   .previews-wrapper {
     margin: 60px 0 70px;
   }
+
+  .product-info-block {
+    padding-top: 60px;
+  }
 }
